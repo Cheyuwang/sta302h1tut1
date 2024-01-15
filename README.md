@@ -4,3 +4,4 @@
 this project is ..
 
 1. import data from .. 
+2. clean the data 
